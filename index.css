@@ -447,11 +447,12 @@ a.btn:active{
     border-radius: 1rem;
     border-bottom: 4px solid transparent;
     transition: all 300ms ease-in-out;
-    height: 44rem;
+    height: 48rem;
 }
 @media only screen and (max-width: 380px){
     .project{
         padding: 5px;
+        height: 45rem;
     }
     .project .img-cover {
         border: 1px solid black;
